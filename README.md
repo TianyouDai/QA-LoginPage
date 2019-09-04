@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I creacted a login page to check whether inputed email address and password are valid or not. 
 
 ## Available Scripts
 
