@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I creacted a login page to check whether inputed email address and password are valid or not. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The follwoing includes UI page, written test case, and available scripts. 
+
+![](login.png)
+
+## Test Case
+
+[Written Test Case](https://github.com/TianyouDai/QA-LoginPageTestCase/blob/master/README.md)
+
 
 ## Available Scripts
 
@@ -42,7 +49,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
+v
 ### Code Splitting
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
