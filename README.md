@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The follwoing includes UI page, written test case, and available scripts. 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The following includes UI page, written test case, and available scripts. 
 
 ![](login.png)
 
